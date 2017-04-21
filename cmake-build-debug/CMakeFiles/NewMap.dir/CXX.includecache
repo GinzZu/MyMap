@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/den/CLionProjects/NewMap/MAPA.hpp
+iostream
+-
+cstring
+-
+
+/home/den/CLionProjects/NewMap/String.hpp
+cstring
+-
+iostream
+-
+
+/home/den/CLionProjects/NewMap/main.cpp
+iostream
+-
+cstring
+-
+MAPA.hpp
+/home/den/CLionProjects/NewMap/MAPA.hpp
+String.hpp
+/home/den/CLionProjects/NewMap/String.hpp
+

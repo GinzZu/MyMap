@@ -1,0 +1,3 @@
+/home/den/CLionProjects/NewMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/den/CLionProjects/NewMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/den/CLionProjects/NewMap/cmake-build-debug/CMakeFiles/NewMap.dir
